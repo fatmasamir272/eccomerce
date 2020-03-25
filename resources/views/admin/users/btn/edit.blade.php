@@ -1,0 +1,1 @@
+<a href="{{aurl('/users/'.$id.'/edit')}}" class="btn btn-info">Edit</a>

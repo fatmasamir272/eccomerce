@@ -1,0 +1,1 @@
+<a href="{{ aurl('/news/'.$id) }}" class="btn btn-success"><i class="fa fa-check"></i></a>
